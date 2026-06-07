@@ -23,8 +23,3 @@ The dataset contains the following information:
 - Attendance
 - Marks
 
- 
-
-1. Clone the repository
-```bash
-git clone <repository-link>
